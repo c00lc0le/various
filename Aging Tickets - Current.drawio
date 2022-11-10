@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T21:45:50.961Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="x4lRHdBeYETH_BbECH2j" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-10T22:00:00.095Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="M6mRrC0BFRpLsieeAzcQ" version="20.5.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="960" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="dNxyNK7c78bLwvsdeMH5-24" value="All tickets for each project are sent via email." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#333333;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
           <mxGeometry x="120" y="35" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q8ybXFgotnQ6R5Sc3Z45-1" value="For tickets over 7 days, the manager is CC&#39;d" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
+        <mxCell id="q8ybXFgotnQ6R5Sc3Z45-1" value="If any ticket is over 7 days, the manager is CC&#39;d" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry x="251" y="35" width="99" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q8ybXFgotnQ6R5Sc3Z45-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20" source="q8ybXFgotnQ6R5Sc3Z45-3" target="q8ybXFgotnQ6R5Sc3Z45-4">
